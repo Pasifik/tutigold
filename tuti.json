@@ -2,7 +2,7 @@
   "name": "Tuti GOLD",
   "symbol": "TUTİ",
   "description": "Tuti GOLD: @OmerMogultay tarafından oluşturulan, Solana üzerinde çalışan değer odaklı bir tokendir.",
-  "image": "https://raw.githubusercontent.com/Pasifik/tutigold/refs/heads/main/TUTİ.png",
+  "image": "https://raw.githubusercontent.com/Pasifik/tutigold/refs/heads/main/TUT%C4%B0.png",
   "external_url": "https://tutihub.com",
   "attributes": [
     {
@@ -24,5 +24,6 @@
     "category": "image"
   }
 }
+
 
 
