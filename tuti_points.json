@@ -1,8 +1,8 @@
 {
   "name": "Tuti Points",
   "symbol": "TUTİ",
-  "description": "Tuti Points: @OmerMogultay tarafından oluşturulan, Solana üzerinde çalışan değer odaklı bir tokendir.",
-  "image": "https://raw.githubusercontent.com/Pasifik/tutigold/refs/heads/main/TUT%C4%B0.png",
+  "description": "Token Tuti Points (TUTİ) Created by @OmerMogultay on the Solana blockchain.",
+  "image": "https://raw.githubusercontent.com/Pasifik/tutigold/refs/heads/main/TUTİ.png",
   "external_url": "https://tutihub.com",
   "attributes": [
     {
@@ -13,7 +13,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Pasifik/tutigold/refs/heads/main/TUT%C4%B0.png",
+        "uri": "https://raw.githubusercontent.com/Pasifik/tutigold/refs/heads/main/TUTİ.png",
         "type": "image/png"
       }
     ],
